@@ -1,5 +1,9 @@
 # Q1. Write a program to find the count of all even no’s and odd no’s in an array / list.
 
+
+
+
+
 list1 = [1,2,3,4,5,6,7,8,9,10]
 n = len(list1)
 
