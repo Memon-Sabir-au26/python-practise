@@ -50,3 +50,10 @@ print(f)
 #clear the list.
 f.clear()
 print(f)
+
+a = [1,3,5,7,9]
+b = int(input())
+if (b in a):
+    print("Element exist")
+else:
+    print("Element does not exist")
